@@ -34,7 +34,7 @@ Follow me and join the journey!
             src="https://custom-icon-badges.demolab.com/github/stars/amandacwilmsen?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/amandacwilmsen?tab=followers">
         <img 
             alt="Followers" 
             title="Follow me on GitHub!" 
