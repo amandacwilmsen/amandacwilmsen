@@ -192,18 +192,17 @@ Follow me and join the journey!
 
 ## 📊 Statistics
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=amandacwilmsen&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=amandacwilmsen&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    alt="GitHub Stats"
+    width="45%"
+    style="margin-right: 10px;"
   />
-  <img 
-    align="left" 
-    alt="Top Languages" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandacwilmsen&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" 
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandacwilmsen&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+    alt="Top Languages"
+    width="49%"
+    style="margin-left: 10px;"
   />
 </p>
