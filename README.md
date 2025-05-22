@@ -1,6 +1,6 @@
 ## 👩🏼‍💻 Amanda Wilmsen
 
-I’m a 21-year-old Software Engineering student at PUCRS and a Data Science certification candidate, with two years of impact as a Software Developer at SAP, the world’s third-largest software company. Currently I'm honing my skills on Data Analytics, Data Science and Machine Learning. 
+I’m a 21-year-old Software Engineering student at PUCRS and a Data Science certification candidate, with two years of impact as a Software Developer and Technology Consultant at SAP, the world’s third-largest software company. Currently I'm honing my skills on Data Analytics, Data Science and Machine Learning. 
 
 My STEAM journey ignited at 14 when I captained Brazil’s most decorated FIRST Robotics Competition team to 20+ international awards and led 10 social-impact initiatives - earning our distinction as the first LATAM team ever nominated as a global role model, a Chairman’s Award World Finalist.
 
