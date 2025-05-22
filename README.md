@@ -192,17 +192,15 @@ Follow me and join the journey!
 
 ## 📊 Statistics
 
-<p align="center">
+<p align="center" style="display: flex; justify-content: center; gap: 10px;">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=amandacwilmsen&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-    alt="GitHub Stats"
-    width="45%"
-    style="margin-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api?username=amandacwilmsen&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en"
+    alt="Amanda Wilmsen's GitHub Stats"
+    width="50%"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandacwilmsen&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
-    alt="Top Languages"
-    width="49%"
-    style="margin-left: 10px;"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandacwilmsen&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9"
+    alt="Top Programming Languages"
+    width="54%"
   />
 </p>
