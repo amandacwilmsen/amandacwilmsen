@@ -201,6 +201,6 @@ Follow me and join the journey!
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandacwilmsen&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9"
     alt="Top Programming Languages"
-    width="45%"
+    width="49%"
   />
 </p>
