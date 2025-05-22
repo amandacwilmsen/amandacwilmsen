@@ -196,11 +196,11 @@ Follow me and join the journey!
   <img
     src="https://github-readme-stats.vercel.app/api?username=amandacwilmsen&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en"
     alt="Amanda Wilmsen's GitHub Stats"
-    width="50%"
+    width="45%"
   />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandacwilmsen&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9"
     alt="Top Programming Languages"
-    width="54%"
+    width="45%"
   />
 </p>
